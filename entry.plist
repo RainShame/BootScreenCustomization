@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "BSCSettings";
+		cell = PSLinkCell;
+		detail = "BSCPreferenceController";
+		icon = "BSC.png";
+		isController = 1;
+		label = "BootScreenCustomization";
+	};
+}

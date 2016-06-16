@@ -1,0 +1,9 @@
+Package: com.cabralcole.bootscreencustomization
+Name: BootScreenCustomization
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0), ws.hbang.common (>= 1.2)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Boot screen colors.
+Author: cabralcole
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/BSCSettings.bundle/BSC@2x.png
